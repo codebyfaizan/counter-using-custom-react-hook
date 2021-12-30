@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-using-custom-react-hook/static/css/main.52fcbe08.css",
+    "main.js": "/counter-using-custom-react-hook/static/js/main.8a699717.js",
+    "index.html": "/counter-using-custom-react-hook/index.html",
+    "main.52fcbe08.css.map": "/counter-using-custom-react-hook/static/css/main.52fcbe08.css.map",
+    "main.8a699717.js.map": "/counter-using-custom-react-hook/static/js/main.8a699717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52fcbe08.css",
+    "static/js/main.8a699717.js"
+  ]
+}
